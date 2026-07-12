@@ -3,3 +3,11 @@ This pack adds an indicator to cobbled blocks.
 
 ![Example with cobblestone](https://cdn.modrinth.com/data/cached_images/d2f0165f4538f2baca1dde148e81551b4726f544_0.webp)
 (Picture from texture pack version 1.3)
+
+<p align="center">
+  
+  <a href="https://modrinth.com/resourcepack/cobble-indicator" target="_blank">
+  <img src="https://img.shields.io/badge/Modrinth-Pack-green?logo=modrinth" alt="Modrinth"/>
+</a>
+  
+</p>
